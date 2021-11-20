@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently a final year student at BITS PILANI, Pilani Campus
+- 🤔 I love brainstorming and developing softwares that can solve real world problems
+- 📫 You can connect with me on [Linkedin](https://www.linkedin.com/in/djain454/) 
 
 <!--
 **djain454/djain454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
